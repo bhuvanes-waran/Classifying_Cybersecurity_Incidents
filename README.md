@@ -1,6 +1,8 @@
 # Classifying_Cybersecurity_Incidents
 Microsoft - Classifying Cybersecurity Incidents with Machine Learning
 
+DataSet Drive Link - https://drive.google.com/file/d/1zE3Ia2AiMFxA10qdoqn0dWQ54O-VjJtw/view?usp=drive_link
+
 1. Data Exploration and Understanding - 
   Initial Inspection: Start by loading the train.csv dataset and perform an initial inspection to understand the structure of the data, including the number of features, types of variables (categorical, numerical), and the distribution of the target variable (TP, BP, FP).
   Exploratory Data Analysis (EDA): Use visualizations and statistical summaries to identify patterns, correlations, and potential anomalies in the data. Pay special attention to class imbalances, as they may require specific handling strategies later on.
